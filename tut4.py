@@ -13,3 +13,7 @@ several lines
 of the text.""")
 print('This is a string.')
 print("""And so is this.""")
+print(42500)
+print(42,500)
+print(42, 17, 56, 34, 11, 4.35, 32)
+print(3.4, "hello", 45)
