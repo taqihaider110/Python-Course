@@ -3,3 +3,13 @@ print(type("Hello"))
 print(type(3.141))
 print(type("5.12"))
 print(type("3"))
+print(type('This is a string.'))
+print(type("And so is this."))
+print(type("""and this."""))
+print(type('''and even this...'''))
+print('''"Oh no", she exclaimed, "Ben's bike is broken!"''')
+print("""This message will span
+several lines
+of the text.""")
+print('This is a string.')
+print("""And so is this.""")
