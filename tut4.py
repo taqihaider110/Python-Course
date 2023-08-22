@@ -1,0 +1,5 @@
+print(type(4))
+print(type("Hello"))
+print(type(3.141))
+print(type("5.12"))
+print(type("3"))
