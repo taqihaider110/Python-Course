@@ -3,6 +3,8 @@ def square(num):
 
 print(square(3))
 def sub(num1,num2):
-    print(sub(square(num1),square(num2+1)))
+    return num1-num2
 
 sub(3,1)
+
+print(sub(square(num1),square(num2+1)))
