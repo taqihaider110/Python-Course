@@ -5,4 +5,11 @@ print(-3.999, int(-3.999))        # Note that the result is closer to zero
 
 print("2345", int("2345"))        # parse a string to produce an int
 print(17, int(17))                # int even works on integers
-print(int("23bottles"))
+# print(int("23bottles"))
+
+print(float("123.45"))
+print(type(float("123.45")))
+
+print(str(17))
+print(str(123.45))
+print(type(str(123.45)))
