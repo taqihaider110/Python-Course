@@ -10,6 +10,6 @@ angle=45
 for _ in range(10):
     taqi.forward(distance)
     taqi.right(angle)
-    angle+=10
+    angle-=10
 
 wn.exitonclick()
