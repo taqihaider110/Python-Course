@@ -6,6 +6,7 @@ import turtle
 import math
 wn = turtle.Screen()
 bob = turtle.Turtle()
+bob.speed(1)
 bob.right(90)
 bob.forward(50)
 bob.left(90)
@@ -18,7 +19,7 @@ bob.forward(50)
 distance= math.sqrt(50*50/2)
 bob.right(135)
 bob.forward(distance)
-bob.right(90)
-bob.forward(distance)
+# bob.right(90)
+# bob.forward(distance)
 wn.exitonclick()
 # Add your code below!
