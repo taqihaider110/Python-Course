@@ -16,4 +16,3 @@ for w in range(1,11):
     sec_accum = sec_accum + w
 print(sec_accum)
 
-numbers = list(range(53))
